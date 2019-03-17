@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://iz-ynd.anonymous.mta-arrival-time.exp.direct",
+  "packagerNgrokUrl": "https://packager.iz-ynd.anonymous.mta-arrival-time.exp.direct",
+  "ngrokPid": 30200
+}
